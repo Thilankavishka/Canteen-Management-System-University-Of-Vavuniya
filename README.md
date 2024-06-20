@@ -16,3 +16,11 @@ userroute functions:
   display Foods by boyshostelcanteen
 
 2020/ICT/18
+functions:
+GET admin
+Find admin
+Delete canteen
+display applied canteen orders
+display Bs canteen orders
+display BoysHostalcanteen orders
+Display Payments
