@@ -5,5 +5,6 @@
 functions:
 GET user (find user,hide password,response for the get user)
 Update User(validate,update,save the user details)
-Reset Password(
+Reset Password
+Delete User
 
