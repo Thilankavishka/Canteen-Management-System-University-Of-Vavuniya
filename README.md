@@ -14,7 +14,7 @@
              example => router.get("/example",middleware.js, async(req,res)=>{}).
     5)routes -
          authroute.js
-             functions -> 
+             functions -> (used post methods for below functions)
                  authroute has register,userlogin,
                  mainadmin login,
                  appliedcanteen admin login,
@@ -24,6 +24,7 @@
          adminmodel.js
          usermodel.js
              we used models in nodejs improve Reusability,Database Interactions,Data Abstraction and Encapsulation(provide clear structure).
+    *modules->express,nodemon,dotenv,cors,jsonwebtoken,bcrypt,mongoose,morgon          
 
 
 2020/ict/52
