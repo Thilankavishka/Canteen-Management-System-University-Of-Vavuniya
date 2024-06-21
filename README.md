@@ -1,4 +1,4 @@
-2020/ICT/30 -> 
+*2020/ICT/30 -> 
  My contribution 
     1)index.js ->index is entrypoint of an application.
     2)seed.js->seed.js used for initiate the admin usernames and passwords.
@@ -27,7 +27,7 @@
     *modules->express,nodemon,dotenv,cors,jsonwebtoken,bcrypt,mongoose,morgon          
 
 
-2020/ict/52
+*2020/ict/52
 userroute functions:
   GET user (find user,hide password,response for the get user)
   Update User(validate,update,save the user details)
@@ -41,7 +41,7 @@ userroute functions:
   display Foods for Bs Canteen admin
   display Foods by boyshostelcanteen
 
-2020/ICT/18
+*2020/ICT/18
 functions:
 GET admin
 Find admin
@@ -51,7 +51,7 @@ display Bs canteen orders
 display BoysHostalcanteen orders
 Display Payments
 
-2020/ICT/95
+*2020/ICT/95
 My contributions:
  Food,order and payment models:
  Integrated comprehensive models to handle food items, orders and payment processing.
@@ -62,7 +62,7 @@ My contributions:
 
   mongodb.js ->Manages the configuration and connection to the mongoDB database in our application
 
-2020/ICT/64
+*2020/ICT/64
 My Contributions: Canteen Route and Model
 canteenmodel.js -> This file defines the schema and model for storing canteen information in the database using Mongoose.
 Schema-> The canteensceema includes fields for Canteenname, openclosetime, and description.
@@ -72,7 +72,7 @@ canteenmodel ->Mongoose model for canteen data.
 canteenmodel.js: Provides a structured schema for canteen data, ensuring consistency and validation in the database.
 canteenroute.js: Implements the necessary routes for creating canteen entries, including middleware integration for security and authorization checks.
 
-2020/ICT/107
+*2020/ICT/107
   My Contributions: 
   Routes and Middleware Integration for Food, Order, and Payment Management
     I set up routes and middleware to manage the application's food items, orders, and payments. Here's a summary of what I did:
