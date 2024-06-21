@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const scheema = mongoose.Schema;
 
-//schema
+//schema used for food
 const foodscheema = new mongoose.Schema(
   {
     foodname: {
