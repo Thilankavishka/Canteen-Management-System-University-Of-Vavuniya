@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66720a8f815a1af53044e18c"
+  },
+  "username": "admin",
+  "password": "$2b$10$k1tkTK2j5Lp8ynxL6Up.S.6Av0cqOhmONJUtLAWELEiNigQwFn71C",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66742b539a9208f79a5bcadb"
+  },
+  "username": "applied",
+  "password": "$2b$10$WgyVglDtBwAl9mHNRspEa.eRP3IBv0UmXq9KKIOTHmzd0sCxndyhS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66742b7f38424da9aaea6a7d"
+  },
+  "username": "bs",
+  "password": "$2b$10$fXqcuXrsSzpIu7Z4uqGDLOY2NdILDClXu9nP8KI8DaHC4TtB8JvJq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66742b8ff6beb011bd436621"
+  },
+  "username": "boyshostel",
+  "password": "$2b$10$W1pbK1US0YwQPK880VY/.OIl2lx.i5bYgKwcG2wIBQety8sRiSRrq",
+  "__v": 0
+}]

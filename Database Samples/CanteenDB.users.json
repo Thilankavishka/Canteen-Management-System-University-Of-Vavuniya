@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "667309becea8f68b1dac5851"
+  },
+  "registrationnumber": "200200",
+  "username": "Ms.madavi",
+  "password": "$2a$10$PdbZxpWYaKU/H3HRdO78b.UqCZp5lQBOmMTtqbl6D8FmXs8GWGHgK",
+  "telephone": "0147258369",
+  "usertype": "staff",
+  "createdAt": {
+    "$date": "2024-06-19T16:39:26.269Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T16:39:26.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667309eecea8f68b1dac5854"
+  },
+  "registrationnumber": "2020ICT30",
+  "username": "thilan_kavishka",
+  "password": "$2a$10$XKifx3flqwEgc2TufHmVpeW4F4MLop.IYcBJ4alLigcGYspIddOSu",
+  "telephone": "0774781131",
+  "usertype": "student",
+  "createdAt": {
+    "$date": "2024-06-19T16:40:14.796Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T16:08:41.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66730a63cea8f68b1dac5857"
+  },
+  "registrationnumber": "2020ICT29",
+  "username": "Nipun_Dilshan",
+  "password": "$2a$10$En48cWNqXU7DhIQHO/V.Re1iGq07WGTO417IyWvh.dIs62s8saWWW",
+  "telephone": "0123456789",
+  "usertype": "student",
+  "createdAt": {
+    "$date": "2024-06-19T16:42:11.523Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T16:42:11.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6674489b91b6789161714146"
+  },
+  "registrationnumber": "2020ICT52",
+  "username": "Gimantha_Heshan",
+  "password": "$2a$10$sOHdxE5p1w5aIc/j8jKTUOuYX6LJxi8jFdvpWd2mcI8mfGRKszP2G",
+  "telephone": "0123456789",
+  "usertype": "student",
+  "createdAt": {
+    "$date": "2024-06-20T15:19:55.826Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T15:19:55.826Z"
+  },
+  "__v": 0
+}]

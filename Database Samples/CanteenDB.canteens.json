@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "Canteenname": "Applied",
+  "openclosetime": "6am to 6pm",
+  "description": "Applied Canteen is oldest canteen of the University Of Vavuniya. We have massive food \nvarieties like tamil foods,sinhala food and etc... so come and enjoy or order your foods and enjoy.",
+  "createdAt": {
+    "$date": "2024-06-19T00:47:28.846Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T00:47:28.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672301e83b98c2ba74dcac0"
+  },
+  "Canteenname": "Bs",
+  "openclosetime": "6am to 7pm",
+  "description": "Bs Canteen is started at 2019 in University Of Vavuniya. We also have massive food varieties like tamil foods,sinhala food and etc... so come and enjoy or order your foods and enjoy",
+  "createdAt": {
+    "$date": "2024-06-19T01:10:54.750Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T01:10:54.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667230ed83b98c2ba74dcac2"
+  },
+  "Canteenname": "BoysHostelCanteen",
+  "openclosetime": "6am to 6pm",
+  "description": "Boys hostal Canteen is situated at near the University playground and hostals. We have lowest price foods order and enjoy it",
+  "createdAt": {
+    "$date": "2024-06-19T01:14:21.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T01:14:21.690Z"
+  },
+  "__v": 0
+}]

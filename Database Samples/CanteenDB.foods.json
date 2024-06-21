@@ -1,0 +1,304 @@
+[{
+  "_id": {
+    "$oid": "6673329f0999e76812bcad56"
+  },
+  "foodname": "riceandcurry",
+  "price": 100,
+  "Canteenid": {
+    "$oid": "667230ed83b98c2ba74dcac2"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-19T19:33:51.288Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:33:51.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667332b40999e76812bcad58"
+  },
+  "foodname": "riceandcurry",
+  "price": 100,
+  "Canteenid": {
+    "$oid": "6672301e83b98c2ba74dcac0"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-19T19:34:12.776Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:34:12.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667332ce0999e76812bcad5a"
+  },
+  "foodname": "riceandcurry",
+  "price": 100,
+  "Canteenid": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-19T19:34:38.410Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:34:38.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667332de0999e76812bcad5c"
+  },
+  "foodname": "tea",
+  "price": 60,
+  "Canteenid": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-19T19:34:54.379Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:34:54.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667332f50999e76812bcad5e"
+  },
+  "foodname": "tea",
+  "price": 60,
+  "Canteenid": {
+    "$oid": "6672301e83b98c2ba74dcac0"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-19T19:35:17.628Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:35:17.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667333030999e76812bcad60"
+  },
+  "foodname": "tea",
+  "price": 60,
+  "Canteenid": {
+    "$oid": "667230ed83b98c2ba74dcac2"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-19T19:35:31.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:35:31.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667333320999e76812bcad64"
+  },
+  "foodname": "plaintea",
+  "price": 20,
+  "Canteenid": {
+    "$oid": "667230ed83b98c2ba74dcac2"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-19T19:36:18.609Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:36:18.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667333490999e76812bcad66"
+  },
+  "foodname": "plaintea",
+  "price": 20,
+  "Canteenid": {
+    "$oid": "6672301e83b98c2ba74dcac0"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-19T19:36:41.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:36:41.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667333530999e76812bcad68"
+  },
+  "foodname": "plaintea",
+  "price": 20,
+  "Canteenid": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-19T19:36:51.555Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:36:51.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667333710999e76812bcad6a"
+  },
+  "foodname": "rice_And_Curry_with_chicken",
+  "price": 200,
+  "Canteenid": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "availableTime": "lunch",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-19T19:37:21.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T19:38:46.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667436a4b5c6da1f0bce4dbd"
+  },
+  "foodname": "Dhal vade",
+  "price": 30,
+  "Canteenid": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-20T14:03:16.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T14:03:16.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667437c83d28cdd5448178a1"
+  },
+  "foodname": "friedrice",
+  "price": 200,
+  "Canteenid": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "availableTime": "lunch",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-20T14:08:08.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T14:08:08.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667438513d28cdd5448178a3"
+  },
+  "foodname": "roti",
+  "price": 40,
+  "Canteenid": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "availableTime": "dinner",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-20T14:10:25.840Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T14:10:25.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66743b5a6a1a28a784f8dcfa"
+  },
+  "foodname": "noodles",
+  "price": 100,
+  "Canteenid": {
+    "$oid": "6672301e83b98c2ba74dcac0"
+  },
+  "availableTime": "lunch",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-20T14:23:22.640Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T14:23:22.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66743bd8934decaee3116eef"
+  },
+  "foodname": "kottu",
+  "price": 200,
+  "Canteenid": {
+    "$oid": "667230ed83b98c2ba74dcac2"
+  },
+  "availableTime": "dinner",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-20T14:25:28.141Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T14:25:28.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667445a3100e5aee8eb768b4"
+  },
+  "foodname": "Itlii",
+  "price": 60,
+  "Canteenid": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "availableTime": "always",
+  "imageurl": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+  "createdAt": {
+    "$date": "2024-06-20T15:07:15.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T15:14:11.216Z"
+  },
+  "__v": 0
+}]

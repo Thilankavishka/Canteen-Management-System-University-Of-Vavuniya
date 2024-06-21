@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "6673405687ea581ba6a32948"
+  },
+  "canteenid": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "foods": [
+    {
+      "foodname": "riceandcurry",
+      "count": 3,
+      "_id": {
+        "$oid": "667456303d3116a79ddd4433"
+      }
+    },
+    {
+      "foodname": "rice_And_Curry_with_chicken",
+      "count": 2,
+      "_id": {
+        "$oid": "667456303d3116a79ddd4434"
+      }
+    }
+  ],
+  "payment": 700,
+  "buyer": {
+    "$oid": "667309eecea8f68b1dac5854"
+  },
+  "createdAt": {
+    "$date": "2024-06-19T20:32:22.883Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T16:17:52.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66734cda69da0a9d462642a5"
+  },
+  "canteenid": {
+    "$oid": "66722aa083b98c2ba74dcabd"
+  },
+  "foods": [
+    {
+      "foodname": "riceandcurry",
+      "count": 1,
+      "_id": {
+        "$oid": "66734cda69da0a9d462642a6"
+      }
+    },
+    {
+      "foodname": "rice_And_Curry_with_chicken",
+      "count": 1,
+      "_id": {
+        "$oid": "66734cda69da0a9d462642a7"
+      }
+    }
+  ],
+  "payment": 300,
+  "buyer": {
+    "$oid": "667309eecea8f68b1dac5854"
+  },
+  "createdAt": {
+    "$date": "2024-06-19T21:25:47.013Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T21:25:47.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66734d9969da0a9d462642a9"
+  },
+  "canteenid": {
+    "$oid": "667230ed83b98c2ba74dcac2"
+  },
+  "foods": [
+    {
+      "foodname": "tea",
+      "count": 1,
+      "_id": {
+        "$oid": "66734d9969da0a9d462642aa"
+      }
+    },
+    {
+      "foodname": "riceandcurry",
+      "count": 2,
+      "_id": {
+        "$oid": "66734d9969da0a9d462642ab"
+      }
+    }
+  ],
+  "payment": 260,
+  "buyer": {
+    "$oid": "667309eecea8f68b1dac5854"
+  },
+  "createdAt": {
+    "$date": "2024-06-19T21:28:57.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T21:28:57.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667356c8dc895be13c607e18"
+  },
+  "canteenid": {
+    "$oid": "6672301e83b98c2ba74dcac0"
+  },
+  "foods": [
+    {
+      "foodname": "riceandcurry",
+      "count": 1,
+      "_id": {
+        "$oid": "667356c8dc895be13c607e19"
+      }
+    }
+  ],
+  "payment": 100,
+  "buyer": {
+    "$oid": "667309eecea8f68b1dac5854"
+  },
+  "createdAt": {
+    "$date": "2024-06-19T22:08:08.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T22:08:08.115Z"
+  },
+  "__v": 0
+}]
