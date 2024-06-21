@@ -61,3 +61,14 @@ My contributions:
   paymentmodel.js->Defines the schema and model for handling payment transactions in our application
 
   mongodb.js ->Manages the configuration and connection to the mongoDB database in our application
+
+2020/ICT/64
+My Contributions: Canteen Route and Model
+canteenmodel.js -> This file defines the schema and model for storing canteen information in the database using Mongoose.
+Schema-> The canteensceema includes fields for Canteenname, openclosetime, and description.
+Model Export -> The schema is compiled into a Mongoose model named canteen and exported for use in other parts of the application.
+canteenroute.js -> This file sets up the routing for canteen-related operations using Express.
+canteenmodel ->Mongoose model for canteen data.
+canteenmodel.js: Provides a structured schema for canteen data, ensuring consistency and validation in the database.
+canteenroute.js: Implements the necessary routes for creating canteen entries, including middleware integration for security and authorization checks.
+ 
