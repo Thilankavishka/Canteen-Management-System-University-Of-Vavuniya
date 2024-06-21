@@ -68,6 +68,9 @@ canteenmodel.js -> This file defines the schema and model for storing canteen in
 Schema-> The canteensceema includes fields for Canteenname, openclosetime, and description.
 Model Export -> The schema is compiled into a Mongoose model named canteen and exported for use in other parts of the application.
 canteenroute.js -> This file sets up the routing for canteen-related operations using Express.
+canteenmodel ->Mongoose model for canteen data.
+canteenmodel.js: Provides a structured schema for canteen data, ensuring consistency and validation in the database.
+canteenroute.js: Implements the necessary routes for creating canteen entries, including middleware integration for security and authorization checks.
 
 2020/ICT/107
   My Contributions: 
@@ -87,9 +90,4 @@ canteenroute.js -> This file sets up the routing for canteen-related operations 
        - Implemented a route to handle payments, collect payment details, and update the payment status.
     7. Display Payment Information:
        - Added a route to show payment information to users, ensuring the payment record exists before displaying it.
-canteenmodel ->Mongoose model for canteen data.
-
-canteenmodel.js: Provides a structured schema for canteen data, ensuring consistency and validation in the database.
-
-canteenroute.js: Implements the necessary routes for creating canteen entries, including middleware integration for security and authorization checks.
  
