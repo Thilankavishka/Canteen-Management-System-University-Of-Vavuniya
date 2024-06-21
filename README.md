@@ -50,3 +50,14 @@ display applied canteen orders
 display Bs canteen orders
 display BoysHostalcanteen orders
 Display Payments
+
+2020/ICT/95
+My contributions:
+ Food,order and payment models:
+ Integrated comprehensive models to handle food items, orders and payment processing.
+  foodsmodel.js -> Defines the schema and model for food items in this application, using mongoose and ODM library for MongoDB and Mode.js
+                   This file handles the structure validation of food data and provide a way to interact with foods
+  ordermodel.js -> Defines the structure of order docs specifying data types and validation rules
+  paymentmodel.js->Defines the schema and model for handling payment transactions in our application
+
+  mongodb.js ->Manages the configuration and connection to the mongoDB database in our application
