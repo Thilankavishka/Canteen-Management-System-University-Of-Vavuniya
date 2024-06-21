@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const scheema = mongoose.Schema;
 
-//schema
+//schema for ordering
 const orderschema = new mongoose.Schema(
   {
     canteenid: {
