@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const scheema = mongoose.Schema;
 
-//schema
+//schema for payment
 const paymentschema = new mongoose.Schema(
   {
     orderid: {
